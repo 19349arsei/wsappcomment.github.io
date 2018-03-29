@@ -1,0 +1,157 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wsappcomment.com" resolutions="1x" timestamp="1522339050366">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="b6.css" crc="3818578053" ref="b6"/>
+    <file name="bnk.css" crc="252745874" ref="bnk"/>
+    <file name="m6.css" crc="4039226991" ref="m6"/>
+    <file name="m1.css" crc="106118481" ref="m1"/>
+    <file name="b5.css" crc="348410156" ref="b5"/>
+    <file name="taxi.css" crc="3879646788" ref="taxi"/>
+    <file name="b10.css" crc="456001788" ref="b10"/>
+    <file name="m2.css" crc="4001174407" ref="m2"/>
+    <file name="m14.css" crc="4154749163" ref="m14"/>
+    <file name="m4.css" crc="4288668827" ref="m4"/>
+    <file name="b7.css" crc="196398675" ref="b7"/>
+    <file name="m12.css" crc="3801195057" ref="m12"/>
+    <file name="m10.css" crc="4084421933" ref="m10"/>
+    <file name="siriraj.css" crc="89088979" ref="siriraj"/>
+    <file name="b9.css" crc="393654894" ref="b9"/>
+    <file name="b13.css" crc="120261858" ref="b13"/>
+    <file name="b4.css" crc="159259810" ref="b4"/>
+    <file name="censalaya.css" crc="4056610011" ref="censalaya"/>
+    <file name="b1.css" crc="175699140" ref="b1"/>
+    <file name="b11.css" crc="4076873258" ref="b11"/>
+    <file name="b2.css" crc="3976759526" ref="b2"/>
+    <file name="m7.css" crc="127862726" ref="m7"/>
+    <file name="m11.css" crc="4281069503" ref="m11"/>
+    <file name="m15.css" crc="4141629784" ref="m15"/>
+    <file name="kmutt.css" crc="215025879" ref="kmutt"/>
+    <file name="m9.css" crc="459111419" ref="m9"/>
+    <file name="m3.css" crc="151875493" ref="m3"/>
+    <file name="b12.css" crc="342907400" ref="b12"/>
+    <file name="b8.css" crc="181207008" ref="b8"/>
+    <file name="m5.css" crc="418355385" ref="m5"/>
+    <file name="index.css" crc="280963267" ref="index"/>
+    <file name="m8.css" crc="4230809561" ref="m8"/>
+    <file name="m13.css" crc="529161789" ref="m13"/>
+    <file name="b3.css" crc="86418992" ref="b3"/>
+    <file name="m16.css" crc="3949333718" ref="m16"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>siriraj:phone>kmutt:phone>censalaya:phone>b1:phone>b2:phone>b3:phone>b4:phone>b5:phone>b6:phone>b7:phone>b8:phone>b9:phone>b10:phone>b11:phone>b12:phone>b13:phone>m1:phone>m2:phone>m3:phone>m4:phone>m5:phone>m6:phone>m7:phone>m8:phone>m9:phone>m10:phone>m11:phone>m12:phone>m13:phone>m14:phone>m15:phone>m16:phone>taxi:phone>bnk:index:siriraj:bnk:taxi:m16:m15:m14:m13:m12:m11:m10:m9:m8:m7:m6:m5:m4:m3:m2:m1:b13:b12:b11:b10:b9:b8:b7:b6:b5:b4:b3:b2:b1:censalaya:kmutt"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="m15.css" crc="11302740" ref="phone>m15"/>
+      <file name="b13.css" crc="3938902025" ref="phone>b13"/>
+      <file name="m1.css" crc="301360477" ref="phone>m1"/>
+      <file name="b7.css" crc="403504528" ref="phone>b7"/>
+      <file name="m11.css" crc="31428550" ref="phone>m11"/>
+      <file name="taxi.css" crc="130510473" ref="phone>taxi"/>
+      <file name="b3.css" crc="3933386811" ref="phone>b3"/>
+      <file name="m4.css" crc="339717370" ref="phone>m4"/>
+      <file name="m3.css" crc="34876833" ref="phone>m3"/>
+      <file name="m8.css" crc="157220166" ref="phone>m8"/>
+      <file name="m2.css" crc="3801944282" ref="phone>m2"/>
+      <file name="b1.css" crc="4268132743" ref="phone>b1"/>
+      <file name="m13.css" crc="3760006919" ref="phone>m13"/>
+      <file name="b6.css" crc="4203556237" ref="phone>b6"/>
+      <file name="m14.css" crc="4118682914" ref="phone>m14"/>
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="kmutt.css" crc="71806492" ref="phone>kmutt"/>
+      <file name="m7.css" crc="4104522081" ref="phone>m7"/>
+      <file name="m5.css" crc="140859979" ref="phone>m5"/>
+      <file name="m10.css" crc="392806730" ref="phone>m10"/>
+      <file name="b11.css" crc="353322448" ref="phone>b11"/>
+      <file name="m16.css" crc="3800517660" ref="phone>m16"/>
+      <file name="censalaya.css" crc="4131227911" ref="phone>censalaya"/>
+      <file name="b8.css" crc="279884782" ref="phone>b8"/>
+      <file name="bnk.css" crc="4154958595" ref="phone>bnk"/>
+      <file name="siriraj.css" crc="166291280" ref="phone>siriraj"/>
+      <file name="b5.css" crc="311506404" ref="phone>b5"/>
+      <file name="b10.css" crc="4177692920" ref="phone>b10"/>
+      <file name="b12.css" crc="305265133" ref="phone>b12"/>
+      <file name="m9.css" crc="3913898315" ref="phone>m9"/>
+      <file name="b4.css" crc="3765034167" ref="phone>b4"/>
+      <file name="b2.css" crc="89918826" ref="phone>b2"/>
+      <file name="m12.css" crc="4085161502" ref="phone>m12"/>
+      <file name="b9.css" crc="3867295867" ref="phone>b9"/>
+      <file name="m6.css" crc="4185996753" ref="phone>m6"/>
+    </folder>
+    <file name="index.html" crc="4041372362" seo="true" mt="1522336498772" redirect="false"/>
+    <file name="siriraj.html" crc="286643130" seo="true" mt="1522336718649" redirect="true"/>
+    <file name="kmutt.html" crc="3790085519" seo="true" mt="1522336771836" redirect="true"/>
+    <file name="censalaya.html" crc="474937771" seo="true" mt="1522336828708" redirect="true"/>
+    <file name="b1.html" crc="292151271" seo="true" mt="1522336880540" redirect="true"/>
+    <file name="b2.html" crc="446847784" seo="true" mt="1522336936182" redirect="true"/>
+    <file name="b3.html" crc="40111405" seo="true" mt="1522336981884" redirect="true"/>
+    <file name="b4.html" crc="454095970" seo="true" mt="1522337054969" redirect="true"/>
+    <file name="b5.html" crc="247553271" seo="true" mt="1522337116749" redirect="true"/>
+    <file name="b6.html" crc="223181924" seo="true" mt="1522337190125" redirect="true"/>
+    <file name="b7.html" crc="3969412688" seo="true" mt="1522337252291" redirect="true"/>
+    <file name="b8.html" crc="241064135" seo="true" mt="1522337336045" redirect="true"/>
+    <file name="b9.html" crc="54351449" seo="true" mt="1522337390286" redirect="true"/>
+    <file name="b10.html" crc="512756490" seo="true" mt="1522337439874" redirect="true"/>
+    <file name="b11.html" crc="215646151" seo="true" mt="1522337513235" redirect="true"/>
+    <file name="b12.html" crc="4242169425" seo="true" mt="1522337574959" redirect="true"/>
+    <file name="b13.html" crc="3860159060" seo="true" mt="1522337683282" redirect="true"/>
+    <file name="m1.html" crc="189141483" seo="true" mt="1522337759682" redirect="true"/>
+    <file name="m2.html" crc="3938970133" seo="true" mt="1522337831142" redirect="true"/>
+    <file name="m3.html" crc="4099223601" seo="true" mt="1522337879328" redirect="true"/>
+    <file name="m4.html" crc="3782471030" seo="true" mt="1522337943530" redirect="true"/>
+    <file name="m5.html" crc="4169625978" seo="true" mt="1522338005449" redirect="true"/>
+    <file name="m6.html" crc="3830485918" seo="true" mt="1522338063355" redirect="true"/>
+    <file name="m7.html" crc="264138114" seo="true" mt="1522338120662" redirect="true"/>
+    <file name="m8.html" crc="3804281713" seo="true" mt="1522338178140" redirect="true"/>
+    <file name="m9.html" crc="4239822530" seo="true" mt="1522338246116" redirect="true"/>
+    <file name="m10.html" crc="105415474" seo="true" mt="1522338337014" redirect="true"/>
+    <file name="m11.html" crc="3936169199" seo="true" mt="1522338412749" redirect="true"/>
+    <file name="m12.html" crc="298546798" seo="true" mt="1522338482524" redirect="true"/>
+    <file name="m13.html" crc="3799331105" seo="true" mt="1522338562046" redirect="true"/>
+    <file name="m14.html" crc="261966395" seo="true" mt="1522338664151" redirect="true"/>
+    <file name="m15.html" crc="3828101782" seo="true" mt="1522338727191" redirect="true"/>
+    <file name="m16.html" crc="134187974" seo="true" mt="1522338794293" redirect="true"/>
+    <file name="taxi.html" crc="4267742727" seo="true" mt="1522338874268" redirect="true"/>
+    <file name="bnk.html" crc="456742626" seo="true" mt="1522338953690" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3949717214" seo="true" mt="1522336500253" redirect="false"/>
+  <file name="siriraj.html" crc="4099065965" seo="true" mt="1522336500269" redirect="true"/>
+  <file name="bnk.html" crc="3973771708" seo="true" mt="1522336501686" redirect="true"/>
+  <file name="taxi.html" crc="4078320877" seo="true" mt="1522336501645" redirect="true"/>
+  <file name="m16.html" crc="4268589921" seo="true" mt="1522336501604" redirect="true"/>
+  <file name="m15.html" crc="3939024403" seo="true" mt="1522336501562" redirect="true"/>
+  <file name="m14.html" crc="3954392035" seo="true" mt="1522336501521" redirect="true"/>
+  <file name="m13.html" crc="4100341163" seo="true" mt="1522336501479" redirect="true"/>
+  <file name="m12.html" crc="4107071701" seo="true" mt="1522336501437" redirect="true"/>
+  <file name="m11.html" crc="3917433710" seo="true" mt="1522336501395" redirect="true"/>
+  <file name="m10.html" crc="314863487" seo="true" mt="1522336501354" redirect="true"/>
+  <file name="m9.html" crc="180148719" seo="true" mt="1522336501311" redirect="true"/>
+  <file name="m8.html" crc="3794980977" seo="true" mt="1522336501271" redirect="true"/>
+  <file name="m7.html" crc="4146523188" seo="true" mt="1522336501229" redirect="true"/>
+  <file name="m6.html" crc="4265888043" seo="true" mt="1522336501187" redirect="true"/>
+  <file name="m5.html" crc="338596612" seo="true" mt="1522336501145" redirect="true"/>
+  <file name="m4.html" crc="241309086" seo="true" mt="1522336501104" redirect="true"/>
+  <file name="m3.html" crc="3883716583" seo="true" mt="1522336501063" redirect="true"/>
+  <file name="m2.html" crc="4174032336" seo="true" mt="1522336501020" redirect="true"/>
+  <file name="m1.html" crc="4256955011" seo="true" mt="1522336500979" redirect="true"/>
+  <file name="b13.html" crc="3778119959" seo="true" mt="1522336500937" redirect="true"/>
+  <file name="b12.html" crc="3761832332" seo="true" mt="1522336500896" redirect="true"/>
+  <file name="b11.html" crc="4164991813" seo="true" mt="1522336500853" redirect="true"/>
+  <file name="b10.html" crc="4202813904" seo="true" mt="1522336500808" redirect="true"/>
+  <file name="b9.html" crc="104026873" seo="true" mt="1522336500771" redirect="true"/>
+  <file name="b8.html" crc="383906668" seo="true" mt="1522336500729" redirect="true"/>
+  <file name="b7.html" crc="4177539291" seo="true" mt="1522336500686" redirect="true"/>
+  <file name="b6.html" crc="4004994137" seo="true" mt="1522336500640" redirect="true"/>
+  <file name="b5.html" crc="4212474565" seo="true" mt="1522336500605" redirect="true"/>
+  <file name="b4.html" crc="4269640414" seo="true" mt="1522336500521" redirect="true"/>
+  <file name="b3.html" crc="4004030478" seo="true" mt="1522336500479" redirect="true"/>
+  <file name="b2.html" crc="151708439" seo="true" mt="1522336500437" redirect="true"/>
+  <file name="b1.html" crc="294338782" seo="true" mt="1522336500392" redirect="true"/>
+  <file name="censalaya.html" crc="180413868" seo="true" mt="1522336500349" redirect="true"/>
+  <file name="kmutt.html" crc="4208231428" seo="true" mt="1522336500311" redirect="true"/>
+</manifest>
